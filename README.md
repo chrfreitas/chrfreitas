@@ -20,6 +20,7 @@
     <a href="https://www.instagram.com/chrfreitas_" target="_blank">
         <img src="https://github.com/chrfreitas/chrfreitas/blob/main/instagram.png" width="24px"  alt="Instagram"/>
     </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
